@@ -2,7 +2,7 @@
 
 
 
-A sophisticated ERC721 contract that binds NFTs to specific geographic locations with cryptographic proof verification.
+ ERC721 contract that binds NFTs to specific geographic locations with cryptographic proof verification.
 
 ## Features
 
@@ -15,7 +15,7 @@ A sophisticated ERC721 contract that binds NFTs to specific geographic locations
 
 # README for Express Minting Server
 
-```markdown
+
 # NFT Minting API Server
 
 
